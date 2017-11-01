@@ -1,1 +1,20 @@
 
+Week 1 was pretty simple! Almost the same what we did in OOP244.
+Just a revision of OO concepts: inheritance, polymorphism and encapsulation.
+Know about stack and heap and relate it with object creation with and without using "new" keyword.
+Example: Stack: int a[10]; Heap: int a= new int[10];
+Compilers and Linking we already know!
+Read well about internal and external linkage and relate with WEB222 classes(inline CSS).
+Declaration: forward and one line.
+Global scope, use of "static" and "const".
+Static: Can be applied to variables as well as functions. 
+Static variable: initialised once and can be used anywhere throughout module and doesn't lose its value till you exit the application. Ideal Use: Suppose you want to keep a track of how many times a function is called or how many objects have been created.
+Static functions: Doesn't need any object to get called. Simply use the name anywhere you want!
+*Note* You can only use static variables in static functions.
+Know about volatile qualifier. It's pretty fussy, you may skip. :D
+Anonymous namespaces, classes, unions and structs.
+*New Stuff*
+Command Line Arguments(Check workshop 1 for details)
+Static Assertion.
+
+That's All! Thanks for viewing.
