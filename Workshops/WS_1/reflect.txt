@@ -1,5 +1,5 @@
 /* Write what you learnt from this workshop */
 
---> Passing arguements through command line!
+--> Passing arguments through command line!
 --> Variable linkange in other unit through static keyword!
 --> Using .h and .cpp file just for one separate function to support modularity in OOP!
