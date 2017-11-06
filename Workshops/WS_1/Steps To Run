@@ -1,0 +1,21 @@
+THIS APP REQUIRES ARGUMENTS FROM COMMAND LINE. TO BE HONEST EVEN I DIDN'T KNOW HOW TO SUPPLY ARGUMENTS FROM COMMAND LINE TO XCODE
+
+Method 1: JUST SIMPLY BUILD THE APPLICATION WITHOUT ANY ERRORS (WARNINGS DOESN'T MATTER) AND THERE YOU'LL SEE A LINE LIKE
+
+Command Line blah blah blah that is your path to the xcode debug directory.
+
+COPY THAT WHOLE PATH STARTING FROM '/' TILL THE END AND PASTE IT TO ACTUAL MAC TERMINAL. AFTER THAT GIVE A SPACE AND SUPPLY YOUR ARGUEMENTS.
+
+Example: ..../ws1 IBM SUN ORC
+
+Method 2: Inside Your XCODE project(the application) at the top left corner you'll see options to Build, Stop, Executable filename
+
+Something like: ws1 > my mac
+
+Click on that executable file and then Edit Scheme
+
+Inside the Argument Passed on Launch option click on + option and add desired arguments.
+ 
+Simply Run the program and enjoy!
+
+WASN'T IT EASY PEASY AND LEMON SQUEEZY
