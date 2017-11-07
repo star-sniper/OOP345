@@ -1,0 +1,15 @@
+You all are very lucky to get these steps. It took me almost a week to know how to supply file
+arguments through command line. Enjoy!!!
+
+Note: Don't just copy! Try to understand the program and make variations, it wasn't that tough, though
+enum class is new its simple if you're able to implement the concept practically.
+
+The following steps are meant for Mac Terminal(same as we do in SSH client while doing the submission):
+
+--> Open the Mac Terminal.
+--> Change your directory to where all your cpp's and h's are present.
+--> Type the command: g++ -o w2 -std=c++0x *.cpp 
+This will compile all cpps and create a new executable file "w2"
+--> Next, type the command: ./w2 Stations.dat
+You are actually supplying the arguments and this is the data file. 
+The above command will run your program.
